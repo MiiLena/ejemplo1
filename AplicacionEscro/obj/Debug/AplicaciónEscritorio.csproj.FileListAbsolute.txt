@@ -1,0 +1,9 @@
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\bin\Debug\AplicacionEscro.exe.config
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\bin\Debug\AplicacionEscro.exe
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\bin\Debug\AplicacionEscro.pdb
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicaciónEscritorio.csprojResolveAssemblyReference.cache
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicacionEscro.Form1.resources
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicacionEscro.Properties.Resources.resources
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicaciónEscritorio.csproj.GenerateResource.Cache
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicacionEscro.exe
+c:\users\milena\documents\visual studio 2013\Projects\AplicacionEscro\AplicacionEscro\obj\Debug\AplicacionEscro.pdb
